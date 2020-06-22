@@ -1,2 +1,2 @@
-# Picture-Bed-For-CDN
+# PictureBedCDN
 图床
